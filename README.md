@@ -1,1 +1,0 @@
-# mini-hackathon-driven

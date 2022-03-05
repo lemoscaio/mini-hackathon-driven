@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "moon-get";
+  src: url("./fontes/moon_get-Heavy.ttf") format("truetype");
+}
+
 * {
   font-family: 'Lato', sans-serif;
   box-sizing: border-box;
@@ -54,18 +59,35 @@ body {
 
 .gif-weather {
   width: 100%;
-  height: 100%;
 }
 
-.gif-weather img {
+.gif-weather-source {
   width: 100%;
-  height: 100%;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 .icone-principal {
   width: 300px;
-  height: 200px;
+  height: 150px;
   object-fit: cover !important;
-  object-position: center 20%;
+  object-position: 100% 10%;
+  border-radius: 10px;
+}
+
+.nome-principal {
+  font-family: "moon-get";
+  color: rgb(127, 162, 245);
+}
+
+.weather__wind {
+  border-left: 5px solid;
+  border-image: linear-gradient(to top, rgb(127, 162, 245) 50%, white) 1 100%;
+
+  padding-left: 7px;
+}
+
+.botao {
+  background-color: rgb(127, 162, 245);
+  color: white;
 }
