@@ -1,7 +1,7 @@
 # mini-hackathon-driven
 
-Esse é o registro de um Mini-Hackaton feito apenas no tempo da aula (3 horas), proposto pela Driven.
-
+Esse é o registro de um Mini-Hackaton feito apenas no tempo da aula (3 horas), proposto pela Driven, feito pela equipe "Tchutchucos do RJ"
+ 
 O desafio era criar "Criar uma solução web que mostre a temperatura e condições gerais do clima baseados na localização do usuário (e/ou do local que ele indicar) da forma mais criativa e interessante possível."
 
 Nas 3 horas, não conseguimos completar todo o desafio proposto, faltando alguns detalhes na lógica que estavam impedindo a execução da ideia que tivemos.
